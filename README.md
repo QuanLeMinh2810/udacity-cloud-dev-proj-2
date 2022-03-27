@@ -1,2 +1,2 @@
 1. [Testing URL with Elastic beanstalk](http://udacity-cloud-dev-proj2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://sb.kaleidousercontent.com/67418/800x533/c5b0716f3d/animals-0b6addc448f4ace0792ba4023cf06ede8efa67b15e748796ef7765ddeb45a6fb.jpg)
-2. [Screenshot of the elastic beanstalk application dashboard](https://github.com/QuanLeMinh2810/udacity-cloud-dev-proj-2/deployment_screenshots/udacity-clound-dev-proj-2.png)
+2. [Screenshot of the elastic beanstalk application dashboard](https://github.com/QuanLeMinh2810/udacity-cloud-dev-proj-2/blob/master/deployment_screenshots/udacity-clound-dev-proj-2.png)
